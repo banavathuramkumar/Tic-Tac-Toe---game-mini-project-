@@ -6,7 +6,7 @@ This project is designed to demonstrate core front-end development skills and ba
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to play](#https://banavathuramkumar.github.io/Tic-Tac-Toe---game-mini-project-/) 
+👉 [Click here to play](https://banavathuramkumar.github.io/Tic-Tac-Toe---game-mini-project-) 
 
 ---
 
